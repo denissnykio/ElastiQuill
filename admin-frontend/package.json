@@ -21,7 +21,7 @@
     "classnames": "^2.2.6",
     "cookie": "^0.3.1",
     "copy-to-clipboard": "^3.1.0",
-    "eslint": "^5.16.0",
+    "eslint": "^6.0.0",
     "font-awesome": "^4.7.0",
     "handlebars": "^4.1.2",
     "html-to-draftjs": "^1.4.0",
