@@ -46,7 +46,7 @@
     "react-hot-loader": "^4.8.4",
     "react-modal": "^3.8.1",
     "react-router-dom": "^5.0.0",
-    "react-select": "^2.4.3",
+    "react-select": "^3.0.0",
     "react-show-more": "^2.0.0",
     "react-simple-maps": "^0.12.1",
     "react-tag-autocomplete": "^5.10.0",
