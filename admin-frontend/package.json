@@ -25,7 +25,7 @@
     "font-awesome": "^4.7.0",
     "handlebars": "^4.1.2",
     "html-to-draftjs": "^1.4.0",
-    "jquery": "^3.4.0",
+    "jquery": "^3.5.0",
     "jquery-ui": "^1.12.1",
     "local-storage": "^1.4.2",
     "localforage": "^1.7.3",
