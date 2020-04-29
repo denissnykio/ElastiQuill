@@ -23,7 +23,7 @@
     "copy-to-clipboard": "^3.1.0",
     "eslint": "^5.16.0",
     "font-awesome": "^4.7.0",
-    "handlebars": "^4.1.2",
+    "handlebars": "^4.6.0",
     "html-to-draftjs": "^1.4.0",
     "jquery": "^3.4.0",
     "jquery-ui": "^1.12.1",
